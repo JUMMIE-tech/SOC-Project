@@ -2,15 +2,6 @@ Healthcare Infrastructure Security & Threat Response
 
 A Security Operations Center (SOC) project focused on strengthening the cybersecurity posture of MediCore Health Systems through network segmentation, firewall enforcement, threat simulation, and continuous security monitoring. The project uses a simulated healthcare environment to identify suspicious activity, reduce lateral movement, improve visibility, and protect sensitive Electronic Health Record (EHR) systems and other critical assets.
 
-Table of Contents
-
-Project Overview
-Network Topology
-Tools and Technologies
-Configuration Steps
-Results and Findings
-Author
-
 
 Project Overview
 The purpose of this project was to design and implement a more secure healthcare network for MediCore Health Systems after identifying security concerns related to insufficient network segmentation, suspicious internal traffic, and limited monitoring capabilities.
