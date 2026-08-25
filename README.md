@@ -57,7 +57,7 @@ SSH — Remote administration and authentication testing
 Virtual LAN and network segmentation controls — Separation of critical network zones and systems.
 
 
-Configuration Steps
+Configuration Steps: 
 Designed a logical healthcare network architecture using Draw.io, separating external, internal, and publicly accessible services.
 Created a virtualised environment using Oracle VirtualBox to simulate workstations, servers, monitoring systems, and an attacker machine.
 Configured pfSense with separate WAN, LAN, and DMZ interfaces using the following network ranges:
